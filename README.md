@@ -35,4 +35,4 @@ volumes:
   kvrocks-data:
 ```
 
-**Don't add the fucking `AUTH_TOKEN`.**
+Use your own `USERNAME` and `PASSWORD`, **Don't add the fucking `AUTH_TOKEN`.**
